@@ -1,6 +1,8 @@
 # John Devaney
 
-I build practical web apps and tools, with a particular interest in networking and IT. My projects include React and TypeScript frontends, Python backends, and small tools that solve everyday problems.
+I work on network troubleshooting and build practical software tools and web apps. My current focus is making everyday IT tasks easier, including **Network Corner**, a Windows tool for network settings, ping, scanning, remote access, and diagnostics.
+
+I also build with React, TypeScript, Python, and Flask.
 
 ## Selected projects
 
